@@ -13,8 +13,8 @@ To print the presentation as PDF you can use [DeckTape](https://github.com/astef
 
 ### Dive In!
 
-- Do not miss [our demos](https://webslides.tv/).
-- Want to get techie? Read [our wiki](wiki):
+- Do not miss [WebSlides demos](https://webslides.tv/).
+- Want to get techie? Read [WebSlides wiki](wiki):
   - [FAQ](https://github.com/webslides/WebSlides/wiki)
   - [Core API](https://github.com/webslides/WebSlides/wiki/Core-API)
   - [Plugin Docs](https://github.com/webslides/WebSlides/wiki/Plugin-docs)
