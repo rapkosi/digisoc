@@ -26,4 +26,4 @@ To print the presentation as PDF you can use [DeckTape](https://github.com/astef
 - Javascript: [@Belelros](https://twitter.com/Belelros) and [@LuisSacristan](https://twitter.com/luissacristan).
 - Based on [SimpleSlides](https://github.com/jennschiffer/SimpleSlides), by [@JennSchiffer](https://twitter.com/jennschiffer).
 
-### [LICENCE](https://github.com/rapkosi/digisoc_presentation_Raphael_Koch/LICENCE)
+### [LICENSE](LICENSE)
