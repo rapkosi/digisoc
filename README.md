@@ -5,7 +5,7 @@
 
 ### Images
 
-All pictures, if no mention differently, used in this presentation are either made by Raphael Koch (with CC0) or fulfill [CC0 Creative Commons](https://creativecommons.org/publicdomain/zero/1.0/deed.en) with no attribution required.
+All pictures, if no mentioned differently, used in this presentation are either made by Raphael Koch (with CC0) or fulfill [CC0 Creative Commons](https://creativecommons.org/publicdomain/zero/1.0/deed.en) with no attribution required.
 
 ### Extensions
 
