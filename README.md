@@ -1,7 +1,11 @@
 # Can we save the planet with AI?
-### A presentation by Raphael Koch, made with [WebSlides](https://webslides.tv/).
+#### A presentation by Raphael Koch, made with [WebSlides](https://webslides.tv/).
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
+
+### Images
+
+All pictures used in this presentation are either made by Raphael Koch or fulfill [CC0 Creative Commons](https://creativecommons.org/publicdomain/zero/1.0/deed.en) with no attribution required.
 
 ### Extensions
 
