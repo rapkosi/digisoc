@@ -1,15 +1,11 @@
 # Can we save the planet with AI?
-## A presentation by Raphael Koch, made with [WebSlides](https://webslides.tv/).
+### A presentation by Raphael Koch, made with [WebSlides](https://webslides.tv/).
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
-[![Release](https://img.shields.io/github/release/webslides/webslides.svg)](https://github.com/webslides/webslides/releases/latest)
-[![codecov](https://codecov.io/gh/webslides/WebSlides/branch/master/graph/badge.svg)](https://codecov.io/gh/webslides/WebSlides)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/jlantunez/8)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/webslides/webslides.svg?style=social)](https://twitter.com/webslides)
 
 ### Extensions
 
-To print the presentation as PDF you can use [DeckTape](https://github.com/astefanutti/decktape). After installing it you can just type `decktape websildes https://raphaelkoch.com/digisoc can_we_save_the_planet_with_AI.pdf` and you have a PDF or just download it [here](https://raphaelkoch.com/digisoc/can_we_save_the_planet_with_AI.pdf).
+To print the presentation as PDF you can use [DeckTape](https://github.com/astefanutti/decktape). After installing it you can just type `decktape websildes https://raphaelkoch.com/digisoc/index.html can_we_save_the_planet_with_AI.pdf` and you have a PDF or just download it [here](https://raphaelkoch.com/digisoc/can_we_save_the_planet_with_AI.pdf).
 
 ### Dive In!
 
