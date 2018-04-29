@@ -27,3 +27,4 @@ To print the presentation as PDF you can use [DeckTape](https://github.com/astef
 - Based on [SimpleSlides](https://github.com/jennschiffer/SimpleSlides), by [@JennSchiffer](https://twitter.com/jennschiffer).
 
 ### [LICENSE](LICENSE)
+**NOTE** that the license does not apply to the resources folder!
