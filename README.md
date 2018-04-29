@@ -9,7 +9,7 @@ All pictures, if not mentioned differently, used in this presentation are either
 
 ### Extensions
 
-To print the presentation as PDF you can use [DeckTape](https://github.com/astefanutti/decktape). After installing it you can just type `decktape websildes https://raphaelkoch.com/digisoc/index.html can_we_save_the_planet_with_AI.pdf` and you have a PDF or just download it [here](https://raphaelkoch.com/digisoc/can_we_save_the_planet_with_AI.pdf).
+To print the presentation as PDF you can use [DeckTape](https://github.com/astefanutti/decktape). After installing it you can just type `decktape websildes https://rapkosi.github.io/digisoc_presentation_Raphael_Koch can_we_save_the_planet_with_AI.pdf` and you have a PDF.
 
 ### Dive In!
 
