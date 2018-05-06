@@ -9,12 +9,20 @@ So is AI the solution? Well according some of the most influential groups on our
 
 ## Slide 3 -- The Challenges
 
+Our planet is under unprecedented stress. The humans industrial development during the industrial revolution has largely come at the expense of the planet. For 10'000 years, the Earth's relative stability has enabled civilization to thrive. But now just in few hundred years we have put this stability at risk. The climate change, which was predicted as early as 1900, has become a reality. The biodiversity decreases everyday and the oceans chemistry has changed. 
 
+## Slide 4/5 -- United Nations Sustainable Development Goals
 
+The United Nations Sustainable Development Goals proved another lens for the challenges facing humanity. Six of the 17 goals apply directly to the environment and humans' influence over it.
 
+## Slide 6 -- Focus points
+For this presentation I will focus on six problems, which we can hopefully solve with the help of AI.
 * **Climate change**
 * **Biodiversity and conservation**
 * **Healthy oceans**
 * **Water security**
 * **Clean air**
 * **Weather and disaster resilience** 
+Taken together, these six issues pose an urgent global challenge. The demand of humans from our planet will increase, mainly due to growing population. So to give our future generations a planet to live on, we have to do something. 
+
+## Slide 7 -- Climate change
