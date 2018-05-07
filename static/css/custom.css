@@ -2,6 +2,11 @@
   /*font-size: 200% !important;*/
 }
 
+nav > ul > li {
+  font-size: 100% !important;
+  line-height: 100%;
+}
+
 p, li {
   font-size: 180%;
   line-height: 190%;
