@@ -76,7 +76,7 @@ Smart homes can monitor and manage the water it uses. we can optimize the indust
 
 AI driven drones can real-time monitoring of rivers and lakes possible. This will not only help to increase the quality of fresh water but also of oceans. A big amount of the oceans' toxins come from rivers leading into it. An we can ensure adequate sanitation of water reserves.
 
-All this data will also help prediction droughts. We can run simulations for drought planning and thus can lower the impact the drought will have. Like this we can prevent situations from happening as it currently does in Cape Town or California.
+All this data will also help prediction droughts. We can run simulations for drought planning and thus can lower the impact the drought will have. Like this we can prevent situations from happening as it currently does in Cape Town, California or the Horn of Africa.
 
 ## Slide 11 -- Clean Air
 
@@ -88,6 +88,26 @@ Well sounds to have the option to forecast air pollution but it would be way bet
 
 ## Slide 12 -- Weather and disaster resilience
 
+The number of natural catastrophes has triplet since 1980. In 2016 the world suffered form 772 such events. Storms get stronger with warmer oceans. Climate gets less stable at areas where it was stable before. Droughts get more intense and a lot more people suffer from it.
+
+In addition to better weather forecasting, data analyzing AI can also help in early warning systems for catastrophes, automate mitigation of flood risk, earthquake damage prediction maybe even predict earthquakes itself. All this information makes it easier to protect urban infrastructure and buildings. This can help minimize the impact of an catastrophes and if something happens it helps to coordinate disaster response in real-time.
+
+## Slide 13 -- Implementation
+
+So far it sounded really Utopian what I was talking about, but it actually isn't that much of an Utopia any more but rather a reality coming to live. People around the globe working hard on it, started implementing those ideas and testing them. A good example is the autonomous vehicle or in-between car communication.  But also system like a smart grid is closer to reality then one might think. Together with other Fourth Industrial Revolution technologies, such as IoT's or Blockchain. Agriculture is getting smarter. Drones are already in use to monitor conditions of the crops. AI plays a significant role in Weather forecasting and climate modeling, it works better with the massive amount of data the climate-science community already gathers.
+
+But there must be a drawback, mustn't it?
+
+## Slide 14 -- Drawback
+
+For all the enormous potential AI offers for building a sustainable planet for future generations, it also poses short- and long-term risks. We can not just blindly deploy an AI system into the wild. This can have risk and new dangers which are not that far from Hollywood's Dystopian movies. First of all there is something that is not a risk per se but rather a reality which we already have discussed last week.
+
+## Slide 15 -- Data
+
+Data. AI cannot work without it, and data is one of the key factors that keep this system running. We're not talking from some data, somewhere we don't really car about. To build such a system we need get as much data as we possibly can. An this data need to be stored, analyzed and used. The risks this data gathering bares are obvious. So we need find a way to store them safely, reliably, and in a way where it cannot be manipulated. And of course there are privacy issues I will not go deeper into now.
+
+## Slide 16 -- Risks
+
 
 
 ## Final word
@@ -95,3 +115,16 @@ Well sounds to have the option to forecast air pollution but it would be way bet
 AI will change our future. It will change how we live, how we work, probably even how we interact with each other in the future. So let's take that opportunity we have and lead it into a direction that will benefit all of us.
 
 Thank you.
+
+
+## Resources
+
+* [8 ways AI can help save the planet - WEF](https://www.weforum.org/agenda/2018/01/8-ways-ai-can-help-save-the-planet/)
+* [Harnessing AI for the Earth report 2018 (PDF)](https://rapkosi.github.io/digisoc/resources/Harnessing_Artificial_Intelligence_for_the_Earth_report_2018.pdf)
+* [Interview with Lloyd Treinish](https://thenextweb.com/artificial-intelligence/2018/04/27/heres-how-ibm-is-saving-earth-with-ai/)
+* [IBM-research](http://www.research.ibm.com/energy-and-environment/earth-day.html)
+* [WWF Publication (PDF)](https://rapkosi.github.io/digisoc/resources/pub-can-technology-save-the-planet-30may17.pdf)
+* [Microsoft blog - Brad Smith](https://blogs.microsoft.com/on-the-issues/2017/12/11/ai-for-earth-can-be-a-game-changer-for-our-planet/)
+* [Renewable Energy Statistic](https://yearbook.enerdata.net/renewables/renewable-in-electricity-production-share.html)
+* [SECORE](http://www.secore.org/site/home/detail/coral-reefs-are-dying.1.html)
+* [How we use water (epa.gov)](https://www.epa.gov/watersense/how-we-use-water)
