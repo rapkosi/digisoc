@@ -5,14 +5,14 @@
 
 ### Images
 
-All pictures, if not mentioned differently, used in this presentation are either made by Raphael Koch (with CC0) or fulfill [CC0 Creative Commons](https://creativecommons.org/publicdomain/zero/1.0/deed.en) with no attribution required. 
+All pictures, if not mentioned differently, used in this presentation are either made by Raphael Koch (with CC0) or fulfill [CC0 Creative Commons](https://creativecommons.org/publicdomain/zero/1.0/deed.en) with no attribution required.
 
 The pictures of Roxane Steiger are excluded from CC0.
 The SVG in the subfolder ibm are excluded from CC0 and MIT license.
 
 ### Extensions
 
-To print the presentation as PDF you can use [DeckTape](https://github.com/astefanutti/decktape). After installing it you can just type `decktape websildes https://rapkosi.github.io/digisoc_presentation_Raphael_Koch can_we_save_the_planet_with_AI.pdf` and you have a PDF.
+To print the presentation as PDF you can use [DeckTape](https://github.com/astefanutti/decktape). After installing it you can just type `decktape websildes https://rapkosi.github.io/digisoc can_we_save_the_planet_with_AI.pdf` and you have a PDF.
 
 ### Dive In!
 

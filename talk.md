@@ -50,9 +50,43 @@ With the help of satellites and AI it makes it easier to go against illegal wild
 
 Pollution control will get simpler with AI driven simulations. We can predict them and track them. Analyze it and make something against it.
 
+<br>
+
 ## Slide 9 -- Healthy oceans
 
+The chemistry of the oceans is changing. They absorb greenhouse gases and the result is acidification and warming. This causes unprecedented damage to fish and corals. Over 50% of the world's coral reefs have died in the last 30 years and up to 90% may die within the next century. A world without corals not only means we will have a less diverse ocean, but it will be also an economic disaster for many people especially in developing countries. Fishery and tourism will have direct impact of this, but also coastal protection especially in areas frequently impacted by hurricanes and tropical storms. The great biodiversity of coral reefs serves as an important source for new medical therapeutics, so losing them is not just a lose of biodiversity and species but also a lose of an possible opportunities.
 
+Here again is mainly monitoring the main usage of AI. We can automate overfishing control and catch thresholds. But also with insights for fisherman. AI can detect and alarm illegal fishing activities and optimize patrol schedules.
+
+Further to fight and prevent further ocean pollution, with marine litter prediction by analyzing and simulating ocean currents, or by AI driven robotic fish to actively fight pollution such as plastic.
+
+AI could also help in form of autonomous vehicles which map and monitor the oceans, to better understand how the whole system works together. This will help us to better protect habitats and conserve what is not lost yet. We can protect species predict there routes. For example by analyzing moving patterns of whales and other big marine wildlife to help giving them save passages be rerouting container ships and decrease unnecessary contact.
+
+All this points need real-time monitoring which will be made easier with the help of AI driven systems. Monitoring the pH values of the water and the ocean temperature, monitor ocean currents and coral reef ecosystems.
+
+## Slide 10 -- Water security
+
+By 2030, we may fall 40% short of the amount of fresh water needed to support the global economy as pollution and climate change affect the global water cycle. The main problem of water usage is, that we tend to forget where fresh water is used. If we think about it mostly the the first things that pop up are toilet, shower, cloths and dishes washing, drinking and food production. But by a study in the US they found out that 12% alone of the water usage in households in 2016 was from leaks in the pipes. An other thing is the industry. Here again the first thing that comes to mind is farming. It is indeed a huge consumer in the US in 2010 it was around 36%, but by far not the largest consumer. The largest consumer is thermoelectric power with around 45%, those are power plants such as nuclear, coal or oil.
+
+AI can help in monitoring again. By monitoring the water supply we are able to better manage it. It will be possible to simulate the supply and get a faster understanding of changes in water quality and can step in with self-adaptive water filtration, which costs a lot and can thus lower the cost of fresh water.
+
+We can early on detect algal blooms and thus lower the harm this can take with it. Further on with AI based monitoring of the landscape we can forecast the stream-flow and automate flood centered infrastructure.
+
+Smart homes can monitor and manage the water it uses. we can optimize the industrial water use, predict maintenance of water plants and generate early warning system for water infrastructure. By constantly monitoring the water running through pipes, underground leaks get detected early on and can be fixed more efficiently.
+
+AI driven drones can real-time monitoring of rivers and lakes possible. This will not only help to increase the quality of fresh water but also of oceans. A big amount of the oceans' toxins come from rivers leading into it. An we can ensure adequate sanitation of water reserves.
+
+All this data will also help prediction droughts. We can run simulations for drought planning and thus can lower the impact the drought will have. Like this we can prevent situations from happening as it currently does in Cape Town or California.
+
+## Slide 11 -- Clean Air
+
+Around 92% of the world's people live in places that fail to meet World Health Organization air quality guidelines. According to the WHO, around 7 million people die annually from exposure to air pollution. This is one death out of every eight globally!
+
+With AI we can optimize sensor-based air purifying systems. Building carbon capture and storage systems. Real-time air pollution monitoring and simulation allows us to detect the source. With enough data we will even have to ability to forecast pollution levels. Which will help not only in warning humans but also in transport management.
+
+Well sounds to have the option to forecast air pollution but it would be way better to solution to get rid of pollution as a whole and change to clean fuels. Here can AI also help. AI works better with huge amount of data than humans do, so AI can help the industry and researches to build advanced batteries and fuel-cell designs.
+
+## Slide 12 -- Weather and disaster resilience
 
 
 
