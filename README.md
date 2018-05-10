@@ -7,7 +7,7 @@
 
 All pictures, if not mentioned differently, used in this presentation are either made by Raphael Koch (with CC0) or fulfill [CC0 Creative Commons](https://creativecommons.org/publicdomain/zero/1.0/deed.en) with no attribution required.
 
-The pictures of Roxane Steiger are excluded from CC0.
+The pictures of Roxane Steiger and Remo Szalai are excluded from CC0.
 The SVG in the subfolder ibm are excluded from CC0 and MIT license.
 
 ### Extensions

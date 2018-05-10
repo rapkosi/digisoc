@@ -118,11 +118,21 @@ Then we have security risks: Misuse of AI via hacking is a serious thread, as ma
 
 Then we have control risks: AI systems work autonomously and interact with one another. This can lead to unexpected output because they start learning from each other and also from errors produced by other AI systems. This things have already happened for example in an experiment let researchers chat several AI driven chat-bots with each other and they created their own language which humans could no longer understand. Or at May the 6th, 2010 a financial crash, known as the flash crash occurred. It was it was a trillion-dollar stock marked crash in the US caused by multiple AI bots speed-trading, which created an artificial market inflation. We cannot let things like this happen to essential system such as power grids or water supplies.
 
-Further we have ethical risks:  
+Further we have ethical risks: The use of AI involves three main elements: the use of big data; the growing reliance on algorithms to perform task, shape choices and make decisions; and the gradual reduction of human involvement in many processes. Together these raises issues related to fairness, responsibility, equality and respect for human rights. Many decisions from an AI about individuals are based on inferred group or community attributes. We cannot let loose an racists or biased system. Things like a Jew-hating, Nazi AI already happened, now imagine such an AI is coordination basic systems in a hospital.
+
+If you listened carefully you probably already realized that this also bares economic risks. The most obvious one is job loss. As AI is adopted more and more into the industry and decision making, many human jobs get obsolete. Further, todays world is globalized and moves quickly. Companies that adopt AI first may alter the competitive landscape, which creates winners and losers. Companies which could not adopt this technology quick enough, may loose their position in the market. The nation-state based system we have today on our planet, struggles to keep pace with the globalized digital economy. The result: massive tax losses. Tax erosion could be drag on public spending, including investments in systems that would help the planet.
+
+I already mentioned the job loss situation, this could also be called an social risk. Large-scale automation mainly threads employment in transportation, manufacturing, agriculture and the service sector. Higher unemployment rates could lead to greater inequality in society. A possible solution would be basic income. Another social risk is autonomous weaponry, but we already talk about this on.
+
+The majority of the mentioned risks are still unsolved and we often don't really know how to even solve them, but even with all those risk in mind, for me this system bares an unprecedented opportunity.
+
+## Slide 17 -- an opportunity
+
+The opportunity for AI to be harnessed to benefit humankind and its environment as a whole is substantial. It will help us unlock new solutions to society's most pressing environmental challenges. However, AI technology has significant risks and cannot allow to forget them.
 
 ## Final word
 
-AI will change our future. It will change how we live, how we work, probably even how we interact with each other in the future. So let's take that opportunity we have and lead it into a direction that will benefit all of us.
+AI will change our future. It will change how we live, how we work, probably even how we interact with each other and our environment in the future. So let's take that opportunity we have and lead it into a direction that will benefit all of us.
 
 Thank you.
 
