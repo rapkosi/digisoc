@@ -86,6 +86,8 @@ With AI we can optimize sensor-based air purifying systems. Building carbon capt
 
 Well sounds to have the option to forecast air pollution but it would be way better to solution to get rid of pollution as a whole and change to clean fuels. Here can AI also help. AI works better with huge amount of data than humans do, so AI can help the industry and researches to build advanced batteries and fuel-cell designs.
 
+<br><br>
+
 ## Slide 12 -- Weather and disaster resilience
 
 The number of natural catastrophes has triplet since 1980. In 2016 the world suffered form 772 such events. Storms get stronger with warmer oceans. Climate gets less stable at areas where it was stable before. Droughts get more intense and a lot more people suffer from it.
@@ -108,7 +110,15 @@ Data. AI cannot work without it, and data is one of the key factors that keep th
 
 ## Slide 16 -- Risks
 
+The risks of AI can be divided, broadly speaking, into six categories.
 
+First of all performance risks: This contains risks such as errors or bias. For the most part, the output of AI systems are determined within a "black box" and with little transparency. How do we know that we can trust those outputs? AI algorithms are self-learning and continuously adapting. They are hard to explain and in some cases may not explainable to humans at all. The inability to rationalize the output of such a system makes it difficult to verify if the output and performance of such a system is accurate or desirable and bares significant risks. So before we can securely deploy AI systems, we have to find a way to build a explainable AI. But this research field is still in its early days. Another ongoing research is "model bias" resulting from biases in training data, which can lead to dangerous decisions when the AI is managing some key systems. It is essential that humans stay "in the loop" on auditing algorithm outputs to mitigate these unintended biases and wider performance risks.
+
+Then we have security risks: Misuse of AI via hacking is a serious thread, as many algorithms being developed with good intentions, as for example for self-driving cars, it could be easily repurposed for causing harm, as for autonomous weaponry. This raises risks of global safety. So we need to ensure good governance to build explainability, transparency and validity into the algorithms. We need to find away to draw a line between beneficial and harmful AI, but how is still open. Another security risk is the data that is used to train the AI. There we have to make sure that it is "safe" data. Malicious inputs can lead to an AI can be triggered to do unintended things.
+
+Then we have control risks: AI systems work autonomously and interact with one another. This can lead to unexpected output because they start learning from each other and also from errors produced by other AI systems. This things have already happened for example in an experiment let researchers chat several AI driven chat-bots with each other and they created their own language which humans could no longer understand. Or at May the 6th, 2010 a financial crash, known as the flash crash occurred. It was it was a trillion-dollar stock marked crash in the US caused by multiple AI bots speed-trading, which created an artificial market inflation. We cannot let things like this happen to essential system such as power grids or water supplies.
+
+Further we have ethical risks:  
 
 ## Final word
 
