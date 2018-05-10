@@ -126,11 +126,11 @@ I already mentioned the job loss situation, this could also be called an social 
 
 The majority of the mentioned risks are still unsolved and we often don't really know how to even solve them, but even with all those risk in mind, for me this system bares an unprecedented opportunity.
 
-## Slide 17 -- an opportunity
+## Slide 17 -- An opportunity
 
 The opportunity for AI to be harnessed to benefit humankind and its environment as a whole is substantial. It will help us unlock new solutions to society's most pressing environmental challenges. However, AI technology has significant risks and cannot allow to forget them.
 
-## Final word
+## Slide 18 -- Our future
 
 AI will change our future. It will change how we live, how we work, probably even how we interact with each other and our environment in the future. So let's take that opportunity we have and lead it into a direction that will benefit all of us.
 
