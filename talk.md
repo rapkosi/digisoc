@@ -104,6 +104,8 @@ But there must be a drawback, mustn't it?
 
 For all the enormous potential AI offers for building a sustainable planet for future generations, it also poses short- and long-term risks. We can not just blindly deploy an AI system into the wild. This can have risk and new dangers which are not that far from Hollywood's Dystopian movies. First of all there is something that is not a risk per se but rather a reality which we already have discussed last week.
 
+<br><br><br><br><br><br>
+
 ## Slide 15 -- Data
 
 Data. AI cannot work without it, and data is one of the key factors that keep this system running. We're not talking from some data, somewhere we don't really car about. To build such a system we need get as much data as we possibly can. An this data need to be stored, analyzed and used. The risks this data gathering bares are obvious. So we need find a way to store them safely, reliably, and in a way where it cannot be manipulated. And of course there are privacy issues I will not go deeper into now.
@@ -135,7 +137,6 @@ The opportunity for AI to be harnessed to benefit humankind and its environment 
 AI will change our future. It will change how we live, how we work, probably even how we interact with each other and our environment in the future. So let's take that opportunity we have and lead it into a direction that will benefit all of us.
 
 Thank you.
-
 
 ## Resources
 
